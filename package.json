@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/zubaer1/JenkinsAwesomeSauce/issues"
   },
-  "homepage": "https://github.com/zubaer1/JenkinsAwesomeSauce#readme"
+  "homepage": "https://github.com/zubaer1/JenkinsAwesomeSauce#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
