@@ -1,0 +1,22 @@
+{
+  "name": "jenkinsawesomesauce",
+  "version": "1.0.0",
+  "description": "Explore Jenkin Coninuous Integration with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubaer1/JenkinsAwesomeSauce.git"
+  },
+  "keywords": [
+    "Jenkins"
+  ],
+  "author": "Zubaer Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zubaer1/JenkinsAwesomeSauce/issues"
+  },
+  "homepage": "https://github.com/zubaer1/JenkinsAwesomeSauce#readme"
+}
